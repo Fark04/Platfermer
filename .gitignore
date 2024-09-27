@@ -1,5 +1,15 @@
 [Libraries]
-/[Libraries]/ 
+/Library/
+Temp/
+Logs/
+Obj/
+MemoryCaptures/
+Build/
+*.csproj
+*.sln
+*.user
+*.unityproj
+
 [Libraries]/Build/ 
 [Libraries]/Artifacts/
 
