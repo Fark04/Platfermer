@@ -1,0 +1,35 @@
+[Libraries]
+/Library/
+Temp/
+Logs/
+Obj/
+MemoryCaptures/
+Build/
+*.csproj
+*.sln
+*.user
+*.unityproj
+
+[Libraries]/Build/ 
+[Libraries]/Artifacts/
+
+[Tmp Folders]
+/Temp/
+*.temp
+
+/Logs/
+/CrashReports/
+
+[Generated]
+/.obj/
+
+[Visual Studio]
+.vs/
+.idea/
+
+[Unity Project]
+/Library/
+/Temp/
+/obj/
+/*.csproj
+/*.sln
